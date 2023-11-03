@@ -2,3 +2,4 @@ __pycache__/node.cpython-311.pyc
 __pycache__/tree.cpython-311.pyc
 src/__pycache__/node.cpython-311.pyc
 .gitignore
+src/__pycache__/tree.cpython-311.pyc
